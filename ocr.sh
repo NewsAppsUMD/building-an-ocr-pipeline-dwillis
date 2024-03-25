@@ -12,10 +12,20 @@ mkdir -p "$text_directory"
 for image_file in "$images_directory"/*.png; do
     # Extract the filename without the extension
     filename=$(basename "$image_file" .png)
-    # Define the base path for the output (without .txt extension, as Tesseract adds it)
+    # Define the base path for the output (Tesseract adds .txt extension automatically)
     output_base="$text_directory/$filename"
-    # Use Tesseract to convert the image to text and save it
-    tesseract "$image_file" "$output_base"
+    # Define the full path of the expected text file (for checking existence)
+    output_text_file="${output_base}.txt"
+    
+    # Check if the text file already exists
+    if [ ! -f "$output_text_file" ]; then
+        # The text file doesn't exist, so run Tesseract OCR on the image
+        tesseract "$image_file" "$output_base"
+        echo "Processed: $filename"
+    else
+        # The text file exists, skip OCR for this image
+        echo "Already processed: $filename, skipping."
+    fi
 done
 
 echo "OCR processing complete."

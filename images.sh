@@ -11,9 +11,10 @@ mkdir -p "$image_directory"
 for pdf_file in "$pdf_directory"/*.pdf; do
     # Extract filename without extension
     filename=$(basename "$pdf_file" .pdf)
-    # Convert PDF to images (PNG format)
-    pdf2image --output "$image_directory" --image_type png "$pdf_file"
+    
+    # Check if there are no images for the current PDF file in the images directory
+    if [ ! -f "$image_directory/$filename-0.png" ]; then
+        # Convert PDF to images (PNG format)
+        pdf2image --output "$image_directory" --image_type png "$pdf_file"
+    fi
 done
-
-# 5069
-# 4482
