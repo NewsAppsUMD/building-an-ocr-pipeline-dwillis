@@ -15,3 +15,10 @@ Start to build the pipeline in ocr.sh by testing out the steps
 - [ ] Make a directory to store the PDFs
 - [ ] Download the PDFs from alerts.csv to that directory using [csvcut](https://csvkit.readthedocs.io/en/latest/tutorial/1_getting_started.html#csvcut-data-scalpel) 
 - [ ] Use [pdf2image](https://pypi.org/project/pdf2image-cli/) to convert the PDFs to png files
+
+#### 2024-03-25
+
+- [ ] Make a directory to store text from the images
+- [ ] Run tesseract on the images, saving the output in the text directory
+- [ ] Stitch together the text files from each PDF into a single file
+
