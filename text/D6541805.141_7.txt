@@ -1,0 +1,34 @@
+25. Patient 13, who lives in Suitland, Maryland, has a history of prosecutions for
+possession of CDS in 2003.
+
+26. Patient 8, who lives in Prince Frederick, Maryland, has a history of prosecutions
+for possession of CDS from 2008 through 2017.
+
+27. Patient 10, who lives in LaPlata, Maryland, has a history of prosecutions for
+possession of, and for distribution of, CDS from 1991 through 2018.
+
+28. Patient 1, who lives in Prince Frederick, Maryland, has a history of prosecution for
+possession of CDS in 2013.
+
+29. Patient 16, who lives in Lexington Park, Maryland, has a history of prosecutions
+for possession of CDS from 2003 through 2018.
+
+30. Patient 4, who lives in Dundalk, Maryland, has a history of prosecution for
+possession of CDS in 2013.
+
+31. Patient 3, who lives in Crownsville, Maryland, has a history of prosecution for
+possession of CDS in 2013.
+
+32. Patient 17, who lives in Rosedale, Maryland, has a history of prosecutions for
+possession of CDS from 1998 through 2014.
+
+33. Patient 20, who lives in Chesapeake Beach, Maryland, has a history of prosecution
+for possession of CDS in 1998.
+
+34, Patient 18, who lives in Glen Burnie, Maryland, has a history of prosecution for
+possession of CDS in 2017.
+
+35. Patient 11, who lives in Glen Burnie, Maryland, at the same address as Patient 18,
+
+has a history of prosecutions for possession of CDS from 2002 through 2016.
+
