@@ -1,0 +1,1163 @@
+IN THE MATTER OF * BEFORE THE
+SAMPSON SARPONG, M.D. * MARYLAND STATE BOARD
+Respondent * OF PHYSICIANS
+License Number D39249 * Case Number 2015-0174
+x * * * * * * * * & * * x
+FINAL DECISION AND ORDER
+
+On May 26, 2016, the Respondent Sampson Sarpong, M.D., an allergist, was charged
+under the Maryland Medical Practice Act, Md. Code Ann., Health Occ. §§ 14-101—14-702, for
+unprofessional conduct in the practice of medicine, see Health Occ. § 14-404(a)(3)(ii); grossly
+overutilizing health care services, Health Occ. § 14-404(a)(19); failing to meet the appropriate
+standards of quality medical care, see Health Occ. § 14-404(a)(22)'; and failing to keep adequate
+medical records, see Health Occ. § 14-404(a)(40). The case was forwarded to the Office of
+Administrative Hearings (“OAH”) for an evidentiary hearing.
+
+On October 27, 28, and 31, 2016, an evidentiary hearing was held at OAH before an
+Administrative Law Judge (“ALJ”). The State presented the testimony of Alpa Laheri Jani,
+M.D., and Jeremy Drelich, M.D., who were accepted as expert witnesses in allergy and
+immunology; Molly Dicken, a compliance analyst for the Maryland State Board of Physicians
+(the “Board”); and Patient 10, a former patient of the Respondent. The Respondent testified on
+his own behalf and did not present any other witnesses. On January 23, 2017, the ALJ issued a
+proposed decision, finding that the Respondent violated Health Occ. § 14-404(a)(3)(ii), (19),
+
+(22), and (40), and recommended that his license to practice medicine in Maryland be revoked.
+
+' A violation of Health Occ. § 14-404(a)(22) is commonly referred to as a violation of the
+“standard of care.”
+The Respondent filed exceptions, and on March 22, 2017, an exceptions hearing was held
+
+before Board Disciplinary Panel B (“Panel B” or the “Panel’”).
+FINDINGS OF FACT
+
+Panel B finds that the following facts were proven by the preponderance of evidence:
+
+The Respondent was initially licensed to practice medicine in Maryland since 1989, and
+he continuously renewed his license. His most recent license was issued in 2015 and had the
+expiration date of September 30, 2017. He is board-certified in pediatrics, and his practice has
+been in the field of allergy and immunology. In 1983, he received his medical degree from the
+University of Ghana Medical School and moved to the United States. He completed his
+internship and residency at Howard University Hospital. Following his residency, he was in
+private practice until he received a fellowship in allergy and immunology at Johns Hopkins
+Hospital. From 1995 to 2000, he was an assistant professor in pediatrics, allergy and
+immunology at the University of Chicago. He then returned to Howard University Hospital,
+where he remained until 2007. Since 2007, he has been in private practice, which is named the
+Center for Allergic Diseases. His private practice has been at two offices which are both located
+in Maryland.
+
+On September 15, 2014, the Board received a complaint from a former patient (Patient
+10) of the Respondent. Patient 10 complained that, after an initial appointment with the
+Respondent, which involved extensive testing, the Respondent failed to appear for two
+subsequent follow-up appointments. Patient 10 was also concerned about his billing and
+unnecessary testing.
+
+On February 6, 2015, the Board sent a subpoena to the Respondent for the medical and
+
+billing records he maintained on 10 specific patients the Board investigators listed. The 10
+On May 28, 2014, the Respondent performed another SPT. The progress notes state that
+the SPT had a generalized response including a saline control reaction. The SPT test results
+form states, “Unequivocal response.” The Respondent’s summary says that the results were
+“equivocal.” The Respondent diagnosed the patient with dermatographism and prescribed
+Hydroxine HCl 2. The Respondents records do not contain a health insurance claim form for
+this visit, although the Respondent circled CPT codes 99245 (Level 5/HC/80), 95004 (Pricks,
+inhalants), 95004 (Pricks, food), and 94060 (Spirometry w/ Bronchodilator) on the form listing
+the billing codes.
+
+The Respondent’s records contain a health insurance claim form for services provided to
+Patient 2 on June 6, 2014, for Level 5 services under CPT code 99245 for $250. (State’s Ex. 18
+at 201.) There is no progress note pertaining to that date or other medical records indicating he
+provided services to Patient 2 on that date.
+
+On July 2, 2014, the patient returned for a follow-up visit. The progress notes state that
+the patient has dermatographism, a dust mite allergy, and a cockroach allergy and that the
+patient’s symptoms have shown a marked improvement with the Hydroxine HCl. The
+Respondent performed a SP, which had normal results. The plan was to “continue medication.”
+Although the only service listed on the billing claim form was for CPT code 99245 for $250, the
+total charge was $2990.
+
+PATIENT 3
+
+Patient 3 saw the Respondent for the first time on April 24, 2014. At this visit, the
+Respondent documented in his progress notes that the patient complained of facial pain, sinus
+pressure, and seasonal allergies, and the Respondent wrote in his summary that the patient had
+
+occasional hives. She had previously seen another allergist without success. The Respondent
+
+11
+wrote in his summary that the patient admitted to taking antihistamine medication. The
+Respondent performed a SPT with a “poor histamine response.” The Respondent wrote under
+the plan for the patient to be “off antihistamines.” The Respondent performed a SP with normal
+results. The Respondent also ordered RAST which showed normal total IgE but abnormal
+responses to cat hair, cat dander, dog dander, dust mites, and cockroaches. The Respondent
+billed $250 under CPT code 99245, $100 for a SP, and $2640 for the SPT for 264 allergens
+tested for a total charge of $2990,
+
+On May 1, 2014, the Respondent wrote in the progress notes that the patient presented
+with “chronic rhinosinusitis.” He performed another SPT, which showed late-phase reactions.
+The Respondent checked on his SPT form reactions to Cat Pelt, German Cockroach, Cat Hair,
+Dock/Sorrel Mix, Dog Epithelium, Meadow Fescue Grass, Mite D.P., Mouse Epithelium,
+Neurospora, Mosquito, Black Locust, Melaleuca Pollen, and Mullberry White. The Respondent
+also performed another SP, which again had normal results. The Respondent also performed a
+PT. The Respondent’s summary states, “She was instructed to take the patch off after 48 hours
+and take a picture after removal.” The Respondent billed $250 under CPT code 99245, $2640
+for the SPT for 264 allergens tested, and $100 for the SP for a total of $2990.
+
+On May 15, 2014, Patient 3 visited the Respondent. The Respondent’s progress notes
+state that the patient had a late phase reaction to the SPT performed on May 1, 2014. There is no
+form recording the results of a SPT performed on May 15, 2014. His summary states that the
+patient “reported a late phase reaction to some of the skin prick test but could not identify the
+kind of allergen.” He performed a SP with normal results. With respect to the PT, the
+Respondent wrote, “The patches on her back fell of[f] within a day.” The patient was prescribed
+
+Allegra D. The Respondent’s records do not contain a health insurance claim form for this date
+
+12
+but his records contain a billing code form with the CPT codes circled: 99245 (Level 5/HC/80),
+95004 (Pricks, inhalants), 95004 (Pricks, food), and 94060 (Spirometry w/ Bronchodilator).
+PATIENT 4
+
+Patient 4 visited the Respondent for the first time on July 11, 2011. Patient 4, who was
+57 years old, has chronic lung disease, presented with a persistent cough, shortness of breath,
+rash, swelling of her feet, possible food allergy, and allergic rhinitis. She became itchy after
+eating crab. She had previously met with other physicians without improvement. The
+Respondent performed a physical examination, which included an evaluation of the patient’s
+vital signs, cognitive functioning, HEENT, lungs, heart, musculoskeletal, extremities. The
+progress notes state, “[the patient] is off Allegra for 1 week.” The Respondent performed SPT
+for environmental skin and food allergy testing which had only equivocal results due to poor
+histamine response. He performed SP without bronchodilation showing a possible mixed
+restrictive or obstructive pattern. A RAST was conducted that was negative to crab and several
+other foods. The Respondent ordered a chest X-ray and started the patient on Advair 500/50
+twice a day, a burst of Prednisone, and an EpiPen for possible anaphylaxis from crab. The
+patient had an elevated IgE discovered upon testing. The Respondent billed $1200 for SPT,
+$250 under CPT code 99245, and $100 for a SP, for a total of $1550.
+
+According to the Respondent, the Patient was “Lost to follow up.”
+
+Approximately one year later, however, on August 17, 2012, Patient 4 returned to the
+Respondent after having difficulty breathing for one week. He performed a physical
+examination and found papular rash and exacerbation of lung disease. He performed a SP which
+showed an increasing restrictive pattern. The patient was evaluated for allergic
+
+bronchopulmonary aspergillosis (ABPA) which was negative. He placed the patient on a short
+burst of Prednisone and referred her to dermatology. The Respondent billed $250 for CPT code
+99245 and $100 for a SP for a total of $350. He wrote that he would see the patient in one week.
+
+Patient 4 again became lost to follow-up, but had a walk in visit on June 5, 2013. She
+had a SP which was back to her “baseline” of her initial visit. The Respondent billed $100 for a
+SP with a date of service of June 5, 2013. (State’s Ex. 23 at 384.)
+
+On June 17, 2013, the Respondent performed a physical evaluation and an SPT which
+had a “poor histamine response.” Because of a rash, the Respondent performed PT, which
+showed “No reaction” to 66 patch tests. The patient was continued on medications. The
+Respondent billed SPT for $2640 for 264 allergens tested, PT for $2000 for 200 patch tests, and
+$250 for CPT code $99245 for a total of $4890.
+
+On July 29, 2013, the Respondent assessed the patient, performed a SP, which was found
+“unchanged.” No specific SP testing results are noted. He continued the patient on her
+medications. The Respondent billed $250 under CPT code 99245 and $100 for SP for a total of
+$350.
+
+On August 26, 2013, the Respondent wrote that the patient was improving. The SP was
+“unchanged.” No specific SP testing results are noted. He continued the patient on her
+medications. The Respondent billed $250 under CPT code 99245 and $100 for SP for a total of
+$350.
+
+On November 11, 2013, the Respondent performed a SPT with a good positive control.
+He wrote, “negative for a fumigatus,” SP was “unchanged,” and that the medication should
+continue. No specific SP testing results are noted. The Respondent billed $250 under CPT code
+
+99245 and $2640 for SPT for 264 allergens tested for a total of $2890.
+
+14
+On September 30, 2014, the patient visited complaining of a two week cough. He
+performed a SP with normal results and ordered a chest CT. The Respondent billed $250 under
+CPT code 99245 and $100 for SP for a total of $350.
+
+On October 21, 2014, the Respondent noted the results of the chest CT, which confirmed
+the patient’s lung disease. Respondent billed $250 under CPT code 99245 and $100 for a SP
+for a total of $350. The progress notes do not mention a SP.
+
+PATIENT 5
+
+Patient 5 was a 14 year old female who saw the Respondent for the first time on April 15,
+2014. The Patient reported seasonal allergies (runny nose, itchy eyes, hives), food allergies to
+seafood and peanuts, and anaphylactic reaction. The Respondent performed a SPT, but the
+histamine response was negative. The Patient stated that she had taken some allergy medicine
+two days prior to the visit. The SP was normal. The Respondent billed $2640 for SPT for 264
+allergens tested and $250 under CPT code 99245 for a total of $2890.
+
+On April 19, 2014, the SPT was repeated, with a good histamine response. The SPT
+showed reactions to the following: Bermuda Grass, Eucalyptus, Furarium, Johnson Grass, Mixed
+Feathers, Meadow Fescue Grass, Black Locust, Oak Read, white Oak, Queen Palm, Pine
+Australian, Wide Pollen Oak, and Virginia Live Oak. The Respondent also ordered the RAST.
+The RAST showed reactions to peanuts, green peas, almonds, green bean, and maple sugar. The
+Respondent billed $2640 for the SPT for 264 allergens tested and $250 under CPT code 99245
+for a total of $2890.
+
+On May 1, 2014, the patient returned and reported some late phase reactions to the SPT
+performed on April 19. The Respondent conducted another SPT. A SP was performed again
+
+with normal results again. And the Respondent performed a PT. The Respondent billed $2640
+for SPT 264 allergens tested, $250 under CPT code 99245, and PT for $3000 for 300 patches for
+a total bill of $5890.
+
+On May 3, 2014, the Respondent evaluated the PT, finding no reaction. There is no form
+documenting the allergens tested for the PT. The Respondent billed $250 under CPT code
+99245.
+
+On May 13, 2014, the Respondent conducted an OFC for green peas. The Respondent
+determined from the OFC that Patient 5 has no allergy. Two SPs were normal. The Respondent
+also wrote in his progress notes, “Skin Test to Shrimp negative.” The Respondent billed $2640
+for SPT for 264 allergens tested, $100 for SP, and $250 under CPT code 99245 for a total of
+$2990.
+
+On May 29, 2014, the patient returned for an OFC for shrimp. The patient had no
+reaction to the Shrimp. Two SPs were normal. The Respondent wrote, “Can eat shrimp.” He
+prescribed an EpiPen in case of accidental ingestion of peanuts. The Respondent billed $100 for
+Ingestion Challenge (CPT code 95075), $100 for the SP, and $250 under CPT code 99245 for a
+total of $450.
+
+PATIENT 6
+
+Patient 6, a 53 year old woman, initially saw the Respondent on March 24, 2014. The
+patient complained of snoring, pain in her knee, and seasonal allergies. The full panel of SPT
+was positive for dust mite. He recommended environmental controls for the dust mites. He
+conducted a SP. He also performed PT. He billed $2640 for SPT for 264 allergens tested, $100
+for SP, PT for $1000 for 100 patch tests, and $250 under CPT code 99245 for a total of $3990.
+
+On March 31, 2014, the Patient arrived for an evaluation of the PT. The PT assessment
+
+form listed only 70 allergens tested, despite the Respondent billing for 100. The PT showed a
+
+16
+reaction to nickel. The plan was for Flonase nose spray twice a day and for the patient to make a
+follow up appointment as needed. The Respondent billed $250 under CPT code 99245.
+
+The Respondent’s records of Patient 6 also contain a health insurance billing form for
+services the Respondent claims he provided Patient 6 on April 15, 2014. It shows the
+Respondent billed $250 for CPT code 99245, $100 for SP, and $2640 for a SPT (264 allergens
+tested) for a total of $2990. For his summary of care, however, the Respondent identified the
+dates of his treatment of this patient as “3/24/ to 3/31/14.” And the Respondent does not mention
+in his summary any visit or services provided on April 15, 2014. Further, supplemental records
+the Respondent provided the Board after the peer review reports included a note he signed,
+regarding Patient 6 stating, “Patient was not seen in April 2014 and therefore no medical records
+or billing to the insurance company.” (Resp. Ex. 17, at 464.) The Respondent, however,
+submitted into evidence at the ALJ hearing several documents purporting to document services
+he provided Patient 6 on April 15, 2014, including SPT results and progress notes.
+
+PATIENT 7
+
+The Respondent’s records contain a Health Insurance Claim Form for Patient 7 for
+services provided on April 24, 2014, which states that he billed $2640 for SPT (264 allergens),
+$100 for a SP, and $250 under CPT code 99245 for a total of $2990. There is no indication from
+any other record that the Respondent provided services to Patient 7 on that date. The document
+states that the patient’s authorization for the release of medical records for processing the claim
+is on file with the date July 18, 2014. The billing form is signed by the Respondent with the
+signature date of April 24, 2014.
+
+Patient 7 was 27 years old when she initially saw the Respondent on July 18, 2014. The
+
+patient reported snoring, headaches, postnasal drainage, and season allergies. She was taking
+
+17
+Zyrtec and Flonase with minimal success. The Respondent performed a SPT (“good histamine
+response”) that showed positive reactions to the following: Short Ragweed, Hickory Shagbank,
+Hackberry, Live Pollen, Pecan Pollen, Orchard Grass, Redtop Grass, Ruba Rhodotorula, Rhe
+Grass Perrenial, Bermuda Grass, Cat Pelt, Cat Hair, Eucalyptus, Epococcum Nigrum, Juniper
+Western, Neurospora, Dust Mite, White Oak, Australia Pine, and Pigweed Spiny. The
+Respondent also performed PT. He diagnosed the patient with severe allergic rhinosinusitis. He
+recommended an antibiotic (Z-Pak) and the patient as a candidate for immunotherapy. The
+Respondent billed $2640 for SPT (264 allergens), $100 for a SP, $1000 for PT for 100 patch
+tests, and $250 under CPT 99245 for a total of $3990. There is no reference to a SP in his
+progress notes or summary.
+
+On July 21, 2014, the patient returned. The Respondent noted that the PT was negative.
+The PT form states “no positive reaction” for 60 patch tests. The Respondent continued the
+Flonase and that the patient was a candidate for allergy shifts and to make any further
+appointments on an as needed basis. The Respondent billed $250 for CPT code 99245 for the
+visit.
+
+PATIENT 8
+
+Patient 8 was 85 years old when she initially visited the Respondent on February 7, 2014.
+The patient reported postnasal drainage and seasonal allergies. She had taken Atrovent, eye
+drops, and Flonase with minimal success. The Respondent performed a SPT (for 80 pricks)
+which showed a reaction to mustard seed and spinach. He also performed a PT for 80 patches.
+He also performed a SP with normal results. He assesses the patient with allergic rhinitis and
+
+sinusitis. He suggested a referral to an ENT and antibiotics. He billed $800 for SPT for 80
+
+18
+allergens, $800 for the PT for 80 patch tests, $100 for the SP, and $250 under CPT code 99205
+(Level 5/HC/60) for a total of $1950.
+
+On February 21, 2014, Patient 8 returned. The Respondent documented no reaction to the
+PT. He performed another SPT, which showed a reaction to Virginia Oak. He changed the
+patient’s Flonase prescription to Nasonex and recommended seeing the patient after her visit to
+an ENT. He billed $800 for the SPT for 80 allergens, $250 for CPT code 99205, and $100 for
+another SP for a total of $1150. There is no reference to a SP in either the progress notes or his
+summary.
+PATIENT 9
+
+Patient 9 was 25 years old when he saw the Respondent for the first time on May 29,
+2014. The patient complained of sneezing, cough, rash, and seasonal and perennial allergies. He
+was also diagnosed with AIDS. The Respondent performed a SPT (good histamine response)
+which showed reactions to the following: Acacia, Bermuda Grass, Grass Bahia, Meadow Fescue
+Grass, Neurospora, Black Locust, Melaleuca Pollen, White Oak, Queen Palm, Pine Australia,
+and Peanut. The patient stated he could eat peanuts without a problem. The Respondent also
+performed PT. The Respondent also ordered a RAST. The Respondent diagnosed the patient
+with hives and rhinitis and prescribed hydroxyzine. He also instructed the patient to return with
+a list of his medications to see if any related to his rash. The Respondent billed $2640 for the
+SPT for 264 allergens, PT for $3000 for 300 patch tests, and $250 for CPT code 99245 for a total
+of $5890.
+
+On June 3, 2014, the Respondent documents no response to 70 patch tests for the PT.
+The RAST showed a negative response to peanut. The patient reported a late phase reaction on
+
+the SPT. Ona repeat SPT, the patient had a reaction to the following: Meadow Fescue Grass,
+
+19
+Oak Red, White Oak, Wide Pollen Oat, Virginia Live Oak, Rhe Grass Perennial, Velvet Grass,
+Timothy Standard, and Stemphyiium. The Respondent also checked a reaction to unnamed
+allergens 3 and 4 under column U. The Respondent noted that the patient seemed to have a
+reaction to Sulfa drugs. The Respondent billed $2640 for SPT of 264 allergens and $250 for
+CPT code 99245 for a total of $2890.
+
+On June 30, 2014, the patient returned for a follow-up visit. The Respondent noted that
+the rash has subsided and that the patient should see him on an as needed basis. The Respondent
+billed for $250 for CPT code 99245.
+
+PATIENT 10
+
+Patient 10 was 63 years old woman when she visited the Respondent for the first time on
+August 23, 2014. The patient complained of snoring, barking cough, plugging in ear, itchy eyes,
+and a runny nose. Her symptoms worsened despite taking Lasix. The Respondent performed a
+SPT, there was no histamine response. The Respondent instructed the patient to stop all
+medications for a repeat SPT, and prescribed a five day dosage of Prednisone. The Respondent
+also placed patches on the patient for a PT. He billed $2640 for the SPT for 264 allergens,
+$1000 for PT of 100 patch tests, and $250 for CPT code 99215 (Level 5/HC/40) for a total of
+$3890.
+
+The patient was scheduled for an appointment for August 25, 2014. The Respondent,
+however, was not at the office, and the office was locked. The Respondent telephoned the
+patient, and she agreed to return the following day.
+
+On August 26, 2014, the patient returned. The Respondent again was not present. An
+
+office assistant removed the patches. The Respondent wrote that the patches could not be
+
+20
+patients were chosen randomly by the Board investigators. On March 9, 2015, the Board
+received records pertaining to eight patients (Patients 1-8) with a certification signed, on March
+2, 2015, by the Respondent for each of the eight patients stating that he provided the Board with
+the “complete medical records which include all records pertaining to the care and treatment of
+the patient . . . in [the Respondent’s] possession.” (Emphasis omitted.) The Respondent also
+provided a written summary of his care for each of these patients.
+
+On July 13, 2015, the Board sent another subpoena to the Respondent for the records of
+two additional patients (Patients 9 and 10).
+
+On July 23, 2015, the Respondent met with Board investigators for an interview, where
+it became apparent that the Respondent had not submitted all of the patient records he possessed
+for the patients at issue. Thus, on July 24, 2015, the Board requested the full and complete
+records of all of the patients whose records were requested as part of the investigation.
+
+From July 27, 2015, through July 30, 2015, the Respondent piecemeal provided the
+Board with additional records of Patients 1-8 and records of Patients 9 and 10 with a certification
+signed, on July 27, 2015, by the Respondent for each patient stating again that he has provided
+the “complete medical records which include all records pertaining to the care and treatment of
+the patient . . . in [the Respondent’s] possession.” (Emphasis omitted.) The Respondent also
+provided a written summary of his treatment for each of the 10 patients.
+
+Two peer reviewers, Dr. Jani and Dr. Drelich, were forwarded the records for a review of
+the Respondent’s practice. The two peer reviewers wrote reports on his practice based on the
+records of the 10 patients whose records were obtained. Their peer review reports are both dated
+February 29, 2016. Each peer reviewer found that the Respondent engaged in unprofessional
+
+conduct in the practice of medicine, grossly overutilized health care services, failed to meet the
+interpreted because the patches stayed the patient’s back for 72 hours instead of 48 hours. The
+Respondent billed for $250. (State’s Ex. 52.)
+THE STATE’S EXPERTS
+Dr. Jani and Dr. Drelich testified for the State, and each was accepted as an expert in
+allergy and immunology. The Respondent did not present any expert testimony. The Panel
+adopts the following description of the professional background and credentials of the State’s
+experts:
+
+Dr. Jani received her medical degree from Johns Hopkins University
+School of Medicine in 1998. She was a resident at Barnes-Jewish
+Hospital in St. Louis, Missouri, from 1998 to 2001. She was a Fellow in
+allergy and immunology at the Washington University School of
+Medicine from 2001 to 2003. Dr. Jani was certified by the American
+Board of Allergy and Immunology in 2003, and recertified in 2012. She
+was certified by the American Board of Internal Medicine in 2001. She
+has been in private practice in Frederick, Maryland, since February 2005.
+She has also been employed by the Johns Hopkins University School of
+Medicine, Division of Allergy and Clinical Immunology, Assistant
+Professor of Clinical Medicine, [from] January 2005 to July 2006, and
+April 2010 to the present. Dr. Jani has been licensed to practice
+medicine in Maryland since 2004.
+
+Dr. Drelich received his medical degree from Rutgers Medical
+
+School, Piscataway, New Jersey, in 1981. He was a pediatric resident at
+
+the Michael Reese Hospital in Chicago, Illinois, from 1981 to 1984. He
+
+was a fellow in Allergy and Clinical Immunology at the Henry Ford
+
+Hospital, Detroit, Michigan, from 1991 to 1993. Dr. Drelich has been
+
+certified by the American Board of Allergy and Immunology in 1993,
+
+2003, and 2013. He is board-certified in pediatrics. He has been
+
+licensed to practice medicine in Maryland since 1994.
+
+The ALJ found the testimony of both experts reliable. The ALJ explained that both of
+the State’s experts testified in an “understandable and straightforward manner.” The ALJ found
+significant that, while there was “‘some variation in their opinions,” they were “consistent in their
+
+opinion that patterns in the Respondent’s practice demonstrate the violations alleged in the
+
+charges,” noting that there was no evidence the experts ever met and discussed standards.
+
+21
+According to the ALJ, both experts found “excessive SPT, excessive repeat SPT without a
+histamine control, PT without indication, billing for visits and procedures not documented in the
+record, and inadequate medical records.”
+
+A careful review of the evidentiary record and the testimony of the experts confirms the
+ALJ’s description of their testimony. By no means was their testimony identical. At times they
+relied upon on or emphasized different details. But, in general, they both found the same
+patterns of misconduct. Their opinions were well-reasoned, well-founded, and consistent with
+fundamental medical principles. Their clear explanations of the intricacies of the field of
+allergies and immunology were decidedly helpful. Dr. Jani and Dr. Drelich were reliable expert
+witnesses, and the Panel relied heavily upon their testimony and opinions in forming its findings
+and conclusions.
+
+EXCEPTIONS
+The ALJ succinctly summarized the Respondent’s conduct:
+the State demonstrated that the Respondent routinely administered
+excessive SPT not supported by patient history, repeated SPT without
+first finding a [positive] histamine response, used PT without indication
+in some instances, and billed for consultations and tests not documented
+in the record. [ALJ’s Proposed Decision at 22.]
+
+The Respondent filed extensive exceptions, but the exceptions generally do not focus on
+the conduct summarized by the ALJ and which is central to this case. The core of the case is the
+Respondent’s unprofessional conduct and gross overutilization. The Respondent instead focuses
+his exceptions on the issue of the standard of care. Although there is certainly some overlap in
+this case between the standard of care and unprofessional conduct and gross overutilization, the
+nature of the grounds are quite different. Ultimately, though, the most serious concerns of the
+
+Panel and the crux of this case pertain to unprofessional conduct and gross overutilization.
+
+22
+The standard of care requires that a physician is held to that degree and skill expected of
+a reasonably competent physician in the same class acting in the same or similar circumstances.
+See Shilkret v. Annapolis Emergency Hospital Association, 276 Md. 187, 200 (1975). The
+Respondent’s main argument is that there was insufficient expert testimony to support a finding
+of a standard of care violation for seven out of 10 patients, contending that both peer reviewers
+did not find a standard of care violation for three of the patients and they disagreed on four other
+patients. There is merit to the Respondent’s exception that a standard of care violation is not
+indicated for his treatment of most of the patients at issue. The Panel thus finds a violation of the
+standard of care concerning only Patients 1 and 9, as explained later in this decision. But, as
+already stated, standard of care issues were not the driving force in this case.
+
+The Respondent also argues on exceptions that the ALJ improperly failed to give any
+weight to records the Respondent produced in response to the peer reviewer reports. The Panel
+does not accept this exception. There are several serious concerns about these records and other
+records of the Respondent which were his exhibits and admitted into evidence. First, many of
+these documents were not included in the documents the Respondent, in March and July 2015,
+produced and certified were all of the records in his possession concerning the patients at issue.
+Regarding Patients 1-8, the Respondent twice certified he was producing all of the records in his
+possession. Yet, numerous records he later produced concerning these patients were not included
+in the first two productions. Second, there is no question that the Respondent wrote many of
+these documents long after the services were provided or purportedly provided. The
+Respondent’s exceptions state, “Respondent reformatted the original patient records from the
+original format his office used.” One document (Resp. Ex. 7 at 304) purports to record the
+
+results of a SPT for Patient 4 from July 11, 2011. But there is another form recording the results
+
+23
+of the SPT from July 11, 2011, for Patient 4 (State’s Exhibit 23 at 399) for the same allergens,
+and the Respondent provided the Board this form in July 2015. And these documents contain
+different writings on them. Then, the Respondent admitted that one document (Resp. Ex. 7 at
+304 ) was written “‘several years after the actual visit.” (Tr. 506.) Another example is Patient 6’s
+results for the PT of March 24, 2014. There is one version from the documents he submitted to
+the Board in July 2015 (State’s Ex. 27 at 511-13) and a different version in Respondent’s Exhibit
+6 at 209-10. And third, the records contradict themselves. For example, the supplemental
+records contain a signed statement from the Respondent stating that he did not see Patient 6 in
+April 2014. (Resp. Ex. 17 at 464.) Notwithstanding his representation that he did not provide
+services to Patient 6 in April 2014, the Respondent later admitted into evidence several purported
+medical records of his treatment of Patient 6 for treatment purportedly provided on April 15,
+2014 (e.g., Resp. Ex. 6 at 192-95, 219). What is clear is that these later produced records are not
+what they purport to be. It should be clear from the documents when the documents were
+actually written. These records do not. These records were written years after the services were
+provided or purportedly provided but that is not mentioned in the records. The information
+contained in the supplemental documents is not trustworthy and, in some cases, outright false. In
+any case, the supplemental records the Respondent belatedly produced are not reliable indicators
+of his purported treatment.’ The exception is denied.
+
+The Panel has carefully considered the Respondent’s other exceptions, which take issue
+with numerous details in the ALJ’s decision. There are several instances in which the
+
+Respondent’s exceptions are correct; that is, the ALJ did at times misstate certain dates, number
+
+> The Panel deems the supplemental records to be the documents the Respondent provided the
+Board in March 2016 after the peer review reports were issued and the records concerning
+Patients 6 and 4 in Respondent’s Exhibits 6 and 7.
+
+24
+of tests, and other details. Most of these misstatements are of minor significance, however. And
+there were several concerns of the Respondent’s practice that the ALJ found rose to the level of a
+violation where the Panel does not. But overall, the ALJ did correctly find that State proved
+significant violations of the Maryland Medical Practice Act. The Panel has thus written this
+decision to focus on the most profound violations.
+
+CONCLUSIONS OF LAW
+L BILLING FOR SERVICES NOT PROVIDED
+
+1. BILLING FOR DAYS IN WHICH THERE WAS NO PATIENT VISIT OR
+ENCOUNTER.
+
+The Respondent billed on several occasions for testing and services that were not
+provided, as demonstrated by the fact that his records contain billing forms indicating he billed
+for testing and services on days in which there was no patient visit or encounter.
+
+The Respondent billed for a March 24, 2014, visit with Patient 1, even though there was
+no visit with Patient 1 that day. (St. Ex. 16 at 160.) The Respondent billed $250 under CPT code
+99245, $2640 for a SPT for 264 allergens tested, and $100 for a SP with bronchodilator for a
+total charge of $2990. The Respondent signed the billing form with the signature date of March
+24, 2014. The Respondent testified, however, “Patient 1 came into my care April the 15" of
+2014.” (Tr. 392.) And the Respondent wrote in his summary that Patient 1 was first seen in his
+office on April 15, 2014. The progress notes make no reference to a visit on March 24, 2014.
+As Dr. Drelich stated in his report, “There is also the billing on March 24, 2014 for 264 skin
+tests, although there is no notation in the chart of this encounter.” The ALJ correctly found that
+the Respondent billed for a SPT and SP for March 24, 2014, with a total bill of $2990. With
+respect to this finding, the Respondent’s exceptions only state, “the record does not support the
+
+finding of a 3/24/14 encounter for Patient 1.” This further makes clear that the Respondent did
+
+25
+not meet with Patient 1 on March 24, 2014. The billing form also states that the authorization for
+the release of records to process the claim is dated March 24, 2014, and is “on file,” although the
+records do not contain an authorization from that date. Despite billing for $2990 for services to
+Patient 1 on March 24, 2014, the Respondent did not provide services to Patient 1 that day.
+
+The Respondent billed for April 15, 2014, visit with Patient 6, even though there was no
+visit with Patient 6 that day. (St. Ex. 26, at 489.) The Respondent billed $250 under CPT code
+99245, $2640 for a SPT for 264 allergens tested, and $100 for a SP with bronchodilator for a
+total of $2990. The Respondent’s signature is on the billing with the signature date of April 15,
+2014. The Respondent’s summaries do not reference a visit by Patient 6 on April 15, 2014. And
+the records he produced in response to the Board’s subpoenas in March and July 2015 do not
+contain any medical records confirming this visit. In fact, in the supplemental records the
+Respondent produced in response to the peer review reports is a note signed by the Respondent
+concerning Patient 6, stating, “Patient was not seen in April 2014 and therefore no medical
+records or billing to the insurance company.” (Resp. Ex. 17, at 464.) The Respondent,
+nonetheless, entered into evidence at the ALJ hearing several documents purporting to be
+medical records from April 15, 2014. The Respondent submitted SPT results (Resp. Ex. 6 at
+192-195) and progress notes (Ex. 6 at 218-219) concerning April 15, 2014. These documents
+were not included in the medical records he submitted on either March 2, 2015, or in July 2015,
+despite certifying on both those occasions that the records he submitted with each of those
+certifications were the patient’s complete medical records. Nor were they even part of the
+supplemental documents he produced in response to the peer review reports. These are false
+medical records. The Respondent billed for services for Patient 6 for April 15, 2014, although
+
+the Respondent did not provide services to Patient 6 on that date.
+
+26
+The Respondent’s records contain a billing form for services for Patient 7 for services on
+April 24, 2014. (St. Ex. 28, at 517.) The billing form delineates $250 under CPT code 99245,
+$2640 for a SPT of 264 allergens, and $100 for a SP for a total of $2990. Patient 7’s first visit to
+the Respondent, however, was on July 18, 2014. There are no notes to show that a visit on April
+24, 2014, occurred, and the Respondent’s summary does not mention a visit for that date. The
+Respondent’s exceptions state, “The record does not support finding Respondent billed Patient 7
+for 4/24/14 visit.” The Respondent cites his own testimony in which he stated that the bill form
+contains the date, “7/18/14” after “on file,” which pertains to patient’s authorization to release
+medical records necessary to process the claim. July 18, 2014, was the date of the patient’s
+initial visit with the Respondent. He testified that the billing form was not submitted for billing,
+explaining that “the insurance company would not even look at it because of the discrepancy.” It
+should be noted that an inconsistency between the date of the patient’s authorization for release
+of records for processing and the dates of service is not present on the other billing forms with
+false dates of service, such as March 24, 2014, for Patient 1 or April 15, 2014, for Patient 6. It is
+possible that the Respondent recognized the discrepancy in the April 24, 2014, billing form prior
+to submitting it and decided not to submit this false document. The Panel will accept the
+Respondent’s assertion that he did not bill for treatment or services for Patient 7 on April 24,
+2014.4 But it must also be noted that this billing form has the Respondent’s signature on it with
+the signature date of April 24, 2014. (St. Ex. 28 at 517.)
+
+In sum, the Panel concludes that the Respondent did bill for medical services he did not
+
+perform for Patients 1 and 6, as described above. The billing forms at issue for Patients 1 and 6
+
+* Likewise, concerning Patient 2, the Panel does not find that the Respondent submitted to the
+insurance company billing forms for services on March 31, 2014, and June 6, 2014, as neither of
+these forms was signed by the Respondent.
+
+27
+have multiple false dates that align with each other. These false dates were not mere accidents or
+aberrations. They were deliberately made to deceive. The Respondent’s billing for services not
+provided, as described above, constitutes unprofessional conduct in the practice of medicine, in
+violation of Health Occ. § 14-404(a)(3)(ii).
+
+2. BILLING FOR SPs THAT WERE NOT PERFORMED
+
+The Respondent billed $100 for a SP performed on Patient 4 on October 21, 2014. The
+records indicate that he did not perform a SP on Patient 4 on that date. There are no SP results
+documented and there is no mention of a SP in the progress notes for October 21, 2014.
+
+The Respondent billed $100 for a SP performed on Patient 7 on July 18, 2014. The
+records indicate that he did not perform a SP on Patient 7 on that date. There are no SP results
+documented; there is no mention of a SP in the progress notes for July 18, 2014; and the
+Respondent does not mention a SP for that date in his summary.
+
+The Respondent billed $100 for a SP performed on Patient 8 on February 21, 2014. The
+records indicate that he did not perform a SP on Patient 8 on that date. There are no SP results
+documented and no mention of a SP in the progress notes for October 21, 2014, and the
+Respondent does not mention a SP for that date in his summary.
+
+The Respondent’s billing for SPs that were not performed constitutes unprofessional
+conduct in the practice of medicine, in violation of Health Occ. § 14-404(a)(3)(ii).
+
+3. BILLING FOR MORE PATCH TESTS THAN HE PERFORMED
+
+The Respondent routinely billed for more patch testing than he actually performed. Dr.
+Drelich testified, “the numbers of patch tests were way in excess of anything I’ve ever seen. And
+I’m not even sure it’s physically possible to perform on a patient, for example, 200 patch tests in
+
+one visit. We do patch testing, and I don’t think I could fit 200 or 300 patch tests on a patient in
+
+28
+a visit. It’s not physically possible.” He explained that generally PT involves between 65 and 80
+patch tests at a time. (Tr. 222.)
+
+The Respondent billed $3000 for PT on Patient 1 for 300 patch tests on May 1, 2014. On
+May 3, 2014, the Respondent, however, wrote “no reaction” for the results of 70 patch tests. As
+Dr. Delich explained, “there’s documentation for 70 patch tests, but there’s billing for 300.” (Tr.
+227.)
+
+The Respondent billed $2000 for PT on Patient 4 for 200 patch tests on June 17, 2013.
+The Respondent wrote “no reaction” for the results of 66 patch tests (although the results form is
+missing a page (page three of three, which generally has four allergens listed)).
+
+The Respondent billed $1000 for PT on Patient 6 for 100 patch tests on March 24, 2014.
+The Respondent marked the results of 70 patch tests, which showed a reaction to nickel.
+
+The Respondent billed $1000 for PT on Patient 7 for 100 patch tests on July 18, 2014.
+On July 21, 2014, the Respondent marked “no positive reaction” for the results of 70 patch tests.
+
+The Respondent billed $3000 for PT on Patient 9 for 300 patch tests on May 29, 2014.
+On June 3, 2014, the Respondent wrote “Negative Response” for results of 70 patch tests. As
+Dr. Drelich testified, “And then there was, for example, billing for 300 patch tests, but the
+evidence in the record is for only 70 patch tests.” (Tr. 248.)
+
+The Respondent billed $1000 for PT on Patient 10 for 100 patch tests on August 23,
+2014. The Respondent wrote that the test was “incomplete” for the results of 70 patch tests. Dr.
+Drelich testified, “the record indicates 70 patch tests, but the patient was billed for 100.”
+
+The Respondent’s exceptions for Patients 1 and 7 state that he “no longer bills for patches
+that fall off a patient or are otherwise unable to use once opened for a patient.” For none of the
+
+patients discussed above, however, did the Respondent record that patches fell off or were
+
+29
+otherwise unable to use once opened for a patient, nor did the Respondent specify or detail any
+mishaps for any patients that would explain the discrepancies between the number of patch tests
+billed and the number recorded as performed. The Respondent routinely billed for more patch
+tests than he actually performed, constituting unprofessional conduct in the practice of medicine,
+in violation of Health Occ. § 14-404(a)(3)(ii).
+
+Il. UNNECESSARY AND UNINDICATED TESTING
+
+1. UNINDICATED PT AND EXCESSIVE ALLERGENS TESTED ON STPs
+
+The Respondent routinely performed testing that was unnecessary, unindicated, and
+excessive. He often performed PTs when there was no indication. On numerous occasions with
+the SPTs, the Respondent unnecessarily tested a full panel of allergens (264). This was evident
+with his testing of food allergens when there were no complaints, symptoms, or indicators for
+these tests.
+
+The Respondent billed for a full panel SPT (264 allergens) on Patient 1 on six occasions.
+A full Panel was unnecessary and not indicated. On each of these SPTs there was “no indication
+for SPT for food allergens beyond nuts.” (Dr. Jani, Tr. 36.) As Dr. Drelich explained, there may
+have been justification to test for nuts “but not for 100-and-some-odd other foods.” (Tr. 229.)
+
+On at least two occasions the Respondent billed for a full panel SPT on Patient 3, which
+included extensive testing of food allergies. The testing for food allergens was not indicated:
+“there’s no history of food allergy.” (Dr. Drelich, T. 234.)
+
+On July 18, 2014, the Respondent performed PT on Patient 7. Both experts for the State
+testified PT was not indicated. Dr. Jani testified, “There was no documentation to support the
+need for patch testing.” (Tr. 87.) Dr. Jani further testified in support of her opinion that the
+
+Respondent engaged in gross overutilization that “in the case of patch testing, it being applied
+
+30
+standard of care, and failed to keep adequate medical records. The Respondent was sent copies
+of the peer review reports.
+
+On March 22, 2016, the Respondent delivered additional medical records pertaining to
+the 10 patients at issue which were not included in either of his first two responses to the
+subpoenas. The Respondent also included documents he drafted in response to the Board’s
+investigation. As he explained, “I translated those records that I had presented before in a format
+that they can see.” (Tr. 490.)
+
+On May 26, 2016, the Respondent was charged with violating Health Occ. § 14-
+404(a)(3)(ii), (19), (22), and (40).
+
+On October 31, 2016, at the evidentiary hearing before the ALJ, the Respondent
+produced additional documents, which included additional records pertaining to Patient 4 (Resp.
+Ex. 7) and Patient 6 (Resp. Ex. 6).
+
+CPT CODE 99245
+
+Billing for Level 5 services indicates the visit involved the most complex services that
+can occur during a visit. CPT code 99245 is a billing code for Level 5 services that requires a
+comprehensive history, a comprehensive examination, and medical decision making of high
+complexity. Dr. Jani explained, “level 5 is the most complex level of coding that can be
+applied.” (Tr. 79.) Referring to CPT code 99245, Dr. Jani stated, “Physicians typically spend
+80 minutes face-to-face with the patient and/or family.” (Respondent’s Ex. 1) She explained that
+CPT code 99245 generally applies to the initial visit and “requires a comprehensive history,
+comprehensive physical examination and then complex medical decision-making needed in
+
+forming an assessment and plan.” (Tr. 80.)
+when it was not indicated.” (/d.) Dr. Drelich testified, “And the patient was tested for an
+excessive number of patch tests for contact dermatitis, but there is no history to suggest contact
+dermatitis.” (Tr. 244-45.) The ALJ found, “there was no patient history or presentation to
+support the PT.” (ALJ’s Proposed Decision at 47.) The Respondent’s exceptions contend, “The
+record does not support finding Respondent did not document need for PT. The use of Nexium
+may indicate acid reflux and may therefore indicate for PT. (R-2 at 445-46).” (Exceptions at 6.)
+There is, however, no documentation that Patient 7 was taking Nexium. The transcript pages the
+Respondent references concern Patient 6, not Patient 7. In fairness, the ALJ also incorrectly
+wrote, “The Respondent administered PT because Patient 7 took Nexium.” (ALJ’s Proposed
+Decision at 16, § 80.) In any case, the Panel does not find that Patient 7 was taking Nexium. PT
+was not indicated for Patient 7. Thus, in addition to billing for more patch tests than performed
+for Patient 7, the PT in general was unjustified. Moreover, on two occasions the Respondent
+billed for full panel SPTs on patient 7, which were unnecessary. Dr. Drelich explained, “the
+patient was tested for an excessive number of food allergens which there [is] no [ ] history to
+suggest it.” (Tr. 244.)
+
+There was no indication for PT for Patient 8. Both experts for the State correctly testified
+that PT was unindicated and unnecessary. Thus, in addition to billing for more patch tests than
+performed for Patient 8, there was no justification for any PT.
+
+There also was no indication for PT for Patient 9. In explaining the basis for her opinion
+that the Respondent engaged in gross overutilization, Dr. Jani included, “patch testing not being
+indicated, but performed.” (Tr. 92.) Thus, in addition to billing for more patch tests than
+
+performed for Patient 9, no PT was needed. Furthermore, the Respondent twice billed for full
+
+31
+panel STPs for Patient 9, which included tests that were excessive and irrelevant. (Dr. Jani, Tr.
+92; Dr. Drelich, Tr. 249.)
+
+The Respondent billed for a full Panel STP on Patient 10, which included an excessive
+number of unnecessary testing for specific allergens. Dr. Drelilch testified, “I do not see an
+indication for food allergy testing.” (Tr. 251.) Dr. Jani testified, “Again, an excessive number of
+skin tests not supported by the patient complaints.” (Tr. 94.) Additionally, there was no
+indication for the PT the Respondent performed on Patient 10. And, as mentioned previously,
+the Respondent billed for more PT than he actually performed. The Respondent then failed to
+show up for the subsequent two follow-up appointments, thus, the Respondent was not able to
+read the results of the PT.
+
+Performing the unnecessary and unindicated testing, as described above, constitutes gross
+overutilization of health care services, in violation of Health Occ. § 14-404(a)(19).
+
+2. UNNECESSARY REPEAT SPTs
+
+Patient 2 complained of chronic hives, which the patient had for approximately two years
+prior to his first visit with the Respondent. The Respondent, nonetheless, performed SPT on at
+least five occasions, and billing $2640 for SPTs on five occasions for a total of $13,200. Dr.
+Drelich correctly explained that a patient with hives “would, in fact, make skin testing very
+difficult to perform or interpret.” He further testified, there was “both excessive and unnecessary
+allergy skin testing for environmental and food allergies in a patient with two years of chronic
+urticarial [hives] which he — ultimately, dermographism does not merit any of that testing.” The
+SPT results, in fact, were equivocal or generalized. During the first visit, the Respondent
+performed a SPT with equivocal results, and RAST testing was obtained. After this visit, as Dr.
+
+Drelich explained in his peer review report, “any further skin testing would not be necessary.”
+
+32
+(Drelich’s peer review report at 6.) After that visit, the Respondent performed SPTs on four
+more occasions. The Panel finds the repeat SPTs were unnecessary and unjustified.
+
+The Respondent billed for SPTs for Patient 5 on four occasions. The first SPT had a poor
+histamine response, but the second SPT (April 19, 2014) had adequate results. Nonetheless, the
+Respondent documented that he performed two more SPTs (May 1, 2014, and May 13, 2014).
+There was no justification for repeating the SPTs after an adequate response. The Respondent
+noted that the patient had a late phase reaction from the SPT from April 19, 2014, but this would
+not justify repeat testing.
+
+On May 29, 2014, the Respondent performed a full panel SPT on Patient 9. The
+Respondent then unnecessarily repeated the SPT on June 3, 2014. A late phase reaction did not
+justify repeat the SPT.
+
+The unnecessary and unindicated testing described above constitutes unprofessional
+conduct in the practice of medicine, in violation of Health Occ. § 14-404(a)(3)(ii), and gross
+overutilization of health care services, in violation of Health Occ. § 14-404(a)(19).
+
+3. SPT HISTAMINE RESPONSES
+
+Taking antihistamines within a short period before a SPT will invalidate the SPT, thus a
+patient must discontinue taking antihistamines before a SPT. If testing shows a negative
+histamine response (an antihistamine was taken too close to the SPT), one does not know if
+negative responses to the allergens tested are due to the antihistamine or to the patient being non-
+allergic. If there is an invalidated SPT because of a negative histamine response, the physician
+should obtain a positive histamine response prior to performing a subsequent SPT, which the
+
+Respondent did not do.
+
+33
+Patient 1’s first visit, on April 15, 2014, included a SPT which was uninterpretable
+because the patient took an antihistamine before the visit. The Respondent billed $2640 for the
+SPT. On the second visit, April 18, 2014, the Respondent did not perform a histamine test prior
+to conducting another SPT, and the SPT was again uninterpretable, because the patient had taken
+“cough medicine” before the visit. The Respondent billed $2640 for the SPT. On April 24,
+2014, the Respondent performed another SPT without first testing for a histamine response. The
+results of the test were “equivocal response to histamine.” The Respondent billed $2640 for the
+SPT. On May 1, 2014, the Respondent performed another SPT, again without first testing for an
+antihistamine, but this time, fortunately, there was a positive histamine response indicated from
+the SPT, so the SPT was adequate. The Respondent billed $2640 for the SPT.° Both of the
+State’s experts found that it was improper for the Respondent to conduct a SPT after the first
+SPT was invalidated due to a negative histamine response without conducting a histamine test
+prior to any subsequent SPT. The Respondent’s failure to do so resulted in two further
+invalidated SPTs for which he billed a combined $5,280.
+
+In addition to Patient 1, Patients 2, 3, 4, 5, and 10 also had negative histamine responses
+on their initial SPTs. Based upon the number of patients with negative histamine responses, the
+ALJ determined that the Respondent failed to notify his patients to stop taking antihistamines
+prior to the visit. The ALJ did not accept the Respondent’s testimony that he did instruct his
+patients to stop taking antihistamine before their visits. The Panel accepts the ALJ’s finding that
+
+the Respondent did not instruct his patients to stop taking antihistamines before their visits.
+
+> As described above, the Respondent again performed another SPT on May 10, 2016, billing for
+$2640 for that STP, and billed $2640 for a SPT on March 24, 2016, although no visit occurred or
+SPT actually occurred on that date.
+
+34
+The Respondent’s failure to obtain valid SPT results due to negative histamine responses
+resulted in numerous repeated tests that otherwise would have been unnecessary and fits within
+his pattern of unjustified testing and billing. As Dr. Jani testified, “There is also a pattern of
+reporting negative histamine response to the initial excessive number of tests to justify repeat
+testing.” (Tr. 64.) The Respondents actions and omissions which resulting in poor or negative
+histamine responses on SPTs constitutes unprofessional conduct in the practice of medicine, in
+violation of Health Occ. § 14-404(a)(3)(ii); and gross overutilization of health care services,
+Health Occ. § 14-404(a)(19).
+
+III. UPCODING
+
+On almost every patient visit, the Respondent billed under the highest billing level (CPT
+code 99245), which Dr. Drelich explained is meant for an “initial consultation, and in none of the
+records is there the level of complexity documented in the record to bill for that level of
+complexity.” (Tr. 244.) The ALJ specifically found that the Respondent unjustifiably billed
+under CPT code 99245 for Patients 1, 2,5, 7, and 9. The Panel accepts the ALJ’s determination
+that the Respondent upcoded (billed under Code 99245 when the level of services required for
+that Code were not provided) for those patients. The Panel does not consider the initial visits for
+these patients to have been upcoded. The subsequent visits for Patients 1, 2, 5, 7, and 9 that were
+billed under CPT code 99245 were improperly upcoded and constitute unprofessional conduct in
+the practice of medicine, in violation of Health Occ. § 14-404(a)(3)(ii).
+
+IV. STANDARD OF CARE
+While the focus of this decision is the Respondent’s unprofessional conduct and his gross
+
+overutilization, his conduct also constitutes a violation of the standard of care, as described here.
+
+35
+Concerning Patient 1, according to the experts for the State, the Respondent’s repeated
+unnecessary testing violated the standard of care. The Panel accepts the testimony of the experts.
+
+Concerning Patient 9, the State’s experts agreed that the Respondent’s excessive and
+unnecessary testing violated the standard of care. The Panel agrees with the State’s experts.
+
+Based on the above findings, with respect to Patients 1 and 9, the Respondent failed to
+meet the appropriate standards as determined by appropriate peer review for the delivery of
+quality medical care performed in this State, in violation of Health Occ. § 14-404(a)(22).
+V. FAILURE TO KEEP ADEQUATE RECORDS
+
+The State’s experts often considered the lack of documentation for testing which the
+Respondent billed to be both a violation of Health Occ. § 14-404(a)(40) (failure to keep adequate
+records) and Health Occ. § 14-404(a)(3)(ii) (unprofessional conduct). In many cases, the lack of
+documentation helped demonstrate that the Respondent billed for testing that he did not perform.
+The Panel considers these instances unprofessional conduct, as opposed to failure to keep
+adequate records. There were, however, several instances in which the Respondent’s records
+clearly demonstrate a straightforward recordkeeping violation, under of Health Occ. § 14-
+404(a)(40).
+
+The Respondent failed to document an adequate history of Patient 1’s asthma and food
+allergies. The Respondent did not record medications, symptoms, triggers, onset, or frequency.
+The Respondent disputes that there was not a full history of the patient’s asthma and points to
+paragraph 11 of the ALJ’s findings of fact, but this paragraph appears to concern the patient’s
+seasonal allergies, not asthma. The Respondent also refers in general to his progress notes, but,
+again, the Panel cannot identify the necessary history specific to asthma, as opposed to the
+
+seasonal allergies. Additionally, the Respondent billed $2640 for 264 allergens on six occasions,
+
+36
+but there are only three forms with test results. Each time a SPT is performed there should be
+documentation of allergens tested, the results for each allergen tested, and the date the test was
+performed. One form has two dates on it: 4/15/14 and 4/18/14. Each page has one signature of
+the Respondent. It is unclear when the Respondent completed this form. That should have been
+clear. His documentation of SPTs was substandard.
+
+The Respondent billed for four SPTs for Patient 5 purportedly performed on April 15,
+2014; April 19, 2014, May 1, 2014, and May 13, 2014. The Respondent billed for the testing of
+264 allergens with each of these SPTs. Each SPT should be documented with each of the
+allergens tested, the results, and the date of the test. The records, however, contain only three
+forms with SPT results. One results form pertains to April 15, 2014 (“poor histamine response”).
+Another results form is dated April 19, 2014, and lists 96 allergens tested, although he billed for
+264. The other results form is dated “4/15/14 — 5/29/15,” which were the dates of the first and
+last of the six patient visits. This form does not distinguish the dates of any of the tests, and one
+cannot discern when any of these allergens were tested. In addition, on May 1, 2014, the
+Respondent billed $3000 for 300 patch tests, but there is no results form for the PT, which
+should list the allergens tested, the results, the date of the test, and the date of the reading. The
+Respondent only wrote “negative — (no reaction)” in the progress notes.
+
+Based upon the findings described above, the Respondent failed to keep adequate
+medical records as determined by appropriate peer review, in violation of Health Occ. § 14-
+404(a)(40).
+
+Summary of Conclusions of Law
+As described above, the Respondent: is guilty of unprofessional conduct in the practice of
+
+medicine, in violation of Health Occ. § 14-404(a)(3)(ii); grossly overutilized health care services,
+
+37
+in violation of Health Occ. § 14-404(a)(19); failed to meet the appropriate standards as
+
+determined by appropriate peer review for the delivery of quality medical care performed in this
+
+State, in violation of Health Occ. § 14-404(a)(22); and failed to keep adequate medical records as
+
+determined by appropriate peer review, in violation of Health Occ. § 14-404(a)(40).
+SANCTION
+
+The ALJ recommended the revocation of the Respondent’s license. The ALJ found that
+the Respondent’s over-billing was deliberate and included billing for testing he did not perform.
+The ALJ also emphasized that his over-billing was not isolated and that he made no efforts to
+rectify it. According to the ALJ, his “offenses were part of a pattern of detrimental conduct.”
+
+The Respondent filed an exception to the ALJ’s recommended sanction. The Respondent
+states that the Respondent has no prior disciplinary history and that “no patient was harmed.”
+The Respondent argues he has rehabilitative potential and his conduct “was not committed in the
+deliberate fashion with which the ALJ concluded.” The Respondent claims that his poor
+recordkeeping skills “undeniably contributed to the ALJ’s finding of deliberate conduct.” The
+Respondent contends that his practice could improve through a comprehensive recordkeeping
+course and a supervisor for his billing and medical records. The Panel finds this inadequate.
+
+The Panel finds the Respondent’s practices disturbing and intolerable. Certainly, the
+Respondent’s over-billing was not isolated. It consumed his practice. His practice was replete
+with different schemes to bill for services that were not performed and for services that were
+performed but not indicated. And there is no doubt his conduct was deliberate. The Panel also
+finds unacceptable the number of inaccurate, contradictory, and false documents he produced.
+
+The Panel agrees with the ALJ that revocation is appropriate.
+
+38
+ORDER
+Based upon the Findings of Fact and Conclusions of Law, it is, by an affirmative vote of
+a majority of the quorum of Board Disciplinary Panel B, hereby
+ORDERED that the license of Sampson Sarpong, M.D. to practice medicine in Maryland
+(License No. D39249) is REVOKED; and it is further
+
+ORDERED that this is a public document.
+
+r
+
+Christine A. Farrelly/ Executive Director
+Maryland State Board of PhysiCians
+
+    
+
+ 
+
+NOTICE OF RIGHT TO APPEAL
+
+Pursuant to § 14-408(a) of the Health Occupations Article, Dr. Sarpong has the right to
+seek judicial review of this Final Decision and Order. Any petition for judicial review must be
+filed within 30 days from the date this Final Decision and Order was sent to the Respondent.
+The petition for judicial review must be made as directed in the Maryland Administrative
+Procedure Act, Md. Code Ann., State Gov’t § 10-222, and Maryland Rules 7-201 et seq.
+
+If Dr. Sarpong petitions for judicial review, the Board is a party and should be served
+with the court’s process. In addition, Dr. Sarpong should send a copy of his petition for judicial
+review to the Board’s counsel, David Wagner, Assistant Attorney General, Office of the
+Attorney General, 300 W. Preston Street, Suite 302, Baltimore, Maryland 21201. The
+administrative prosecutor is not involved in the circuit court process and does not need to be
+
+served or copied on pleadings filed in circuit court.
+TESTING
+
+The Respondent tested his patients through a variety of procedures. The five tests at
+issue are the Skin Prick Test (SPT), Patch Testing (PT), Spirometry (SP), Radioallergosorbent
+Test (RAST), and the Open Food Challenge (OFC). Each of these is explained below.
+
+SKIN PRICK TEST (SPT)
+
+To identify a person’s allergic disorder, a physician can perform the SPT. Using a skin
+puncture device, small amounts of allergens are loaded into pricks or needles which are then
+pricked into the patient’s skin. A specific allergen is placed into an individual prick. Thus, if 40
+allergens are tested, there are 40 pricks. After 15 to 20 minutes, the physician examines the skin.
+A wheal (hive) response to a prick is indicative of an allergic disorder.
+
+The allergens tested should be guided by the patient’s complaints and symptoms. The
+SPT can test for “environmental allergens, such as dust, pollens, animal danders, things that are
+inhaled, typically, . . . in the environment. And then there are other skins tests relevant to foods
+causing symptoms, others to insect venoms.” (Tr. 120.) Positive and negative controls should
+also be tested to ensure the validity of the interpretations. Unless there is a consequential change
+in the patient’s condition, the SPT should not be repeated if the results of SPT are valid.
+
+A patient should not take antihistamines and certain other medications for a period before
+a SPT (generally three days, but it can be more depending on the half-life of the antihistamine).
+A histamine test can determine the usefulness or validity of a SPT. A negative histamine
+response means that the results of a SPT are, or would be, compromised by medication, such as
+an antihistamine, which would interfere with the reactions to the allergens tested. Thus, patients
+must be notified to discontinue antihistamines and certain other medications before a visit in
+
+which a SPT will be performed. Tr. 64-65. If an SPT is invalidated or cancelled due to the
+patient taking an antihistamine or other medication, the SPT should not be repeated unless there
+is first a positive histamine response (a result showing the test will not be compromised by
+medication). Tr. 119-20.
+
+A SPT is generally not indicated for a patient with dermographism (or
+dermatorgraphism), which is a skin condition in which scratching causes a rash or hives. The
+dermographism often makes the SPT more difficult and often futile, as the skin condition
+interferes with an interpretation of the SPT.
+
+PATCH TESTING (PT)
+
+PT is used to diagnose allergic disorders in a patient who has contact dermatitis.
+Indications for PT would be a rash that is suspect for contact dermatitis or a rash that develops
+from contact with an allergen. Additionally, another possible indication for PT is eosinophilic
+esophagitis, which is an esophageal disorder (an intestinal disorder thought to be related to food
+allergies).
+
+Generally, PT involves placing seven to eight large patches on a patient. Each large
+patch has 10 individual patch tests. Thus PT generally involves approximately 70-80 individual
+patch tests. Each individual patch test concerns an individual allergen. PT generally requires
+three visits. The patches are applied during the first visit, and then, after two days, the patient
+returns for the patches to be removed and the skin is evaluated by the physician. The patient
+returns again, after three to seven days, for a third visit for a second reading.
+
+SPIROMETRY (SP)
+
+SP is a pulmonary function test to diagnose asthma and other lung conditions. SP is
+
+indicated if an upper airway disease is suspected. The test is performed by the patient exhaling
+
+into a machine for a measurement of the amount of air that is exhaled and the velocity of the air.
+RADIOALLERGOSORBENT TEST (RAST)
+
+RAST is a form of blood testing for allergic disorders.
+OPEN FOOD CHALLENGE (OFC)
+
+If the patient reports symptoms of an allergy to a certain food, but other forms of testing
+does not substantiate the allergy, then a physician may conduct an OFC. The physician will
+observe the patient ingesting the food and watch for symptoms to determine if it is a true food
+allergy.
+
+PATIENT 1
+
+The Respondent’s records contain a Health Insurance Claim form indicating that the
+Respondent billed $250 under CPT code 99245, $2640 for SPT for 264 allergens tested, and SP
+for $100, totaling $2990, for services he provided Patient 1 on March 24, 2014. (State’s Ex. 16 at
+160.) The Respondent did not perform those tests or provide those services to Patient 1 nor did
+he even meet with Patient 1 on that date. The first time Patient 1 met with the Respondent was
+on April 15, 2014.
+
+On April 15, 2014, Patient 1 initially visited the Respondent. Patient 1 is a teacher. She
+reported a history of asthma, seasonal allergies, and an allergy to nuts. She had a severe asthma
+attack while working at her school, which was undergoing renovations. She was treated at a
+hospital emergency room. The Respondent documented Patient 1’s history, noting asthma,
+seasonal allergies, and an allergy to nuts. The patient was taking Albuterol every four hours, or
+as needed, and Spiriva daily. The Respondent examined the patient’s head, eyes, ears, nose, and
+throat (HEENT), as well as lungs. He also noted, “Rest of Exam within normal Limits.” On
+April 15, 2014, the Respondent performed SPT testing for 264 allergens (a full panel). The SPT
+
+included comprehensive food allergy testing and was not limited to testing for nuts. The SPT
+results were uninterpretable because the patient had taken an antihistamine. The Respondent also
+performed SP, which was within normal limits. The Respondent billed $2640 for the SPT for
+264 allergens tested, $100 for the SP, and $250 under CPT code 99245 for a total of $2990.
+
+Patient 1 returned on April 18, 2014. The Respondent again performed a SPT of 264
+allergens. The Respondent wrote, “She is not on any histamine since last visit.” There,
+however, was again a negative histamine response, which was deemed caused by a “cough
+mixture” the patient had taken the previous night. The SPT results were deemed “inconclusive.”
+The Respondent billed $2640 for the SPT for 264 allergens tested and $250 under CPT code
+99245 for a total of $2890.
+
+Patient 1 returned on April 24, 2014. The Respondent again performed a SPT. There
+was an “equivocal response to histamine.” The Respondent also performed another SP, again
+with normal results. The Respondent scheduled another visit for May 1, 2014 for a follow-up
+and ordered that the patient temporarily discontinue her current medications (to prevent another
+antihistamine compromised SPT) and that, in the meantime, the patient take Prednisone for her
+allergies. The Respondent billed $250 under CPT code 99245, $2640 for the SPT for 264
+allergens tested, and $100 for the SP for a total charge of $2890.”
+
+On May 1, 2014, the Respondent’s progress notes state that he performed another SPT.
+This time there was a positive histamine response. According to the Respondent’s progress
+notes, the test showed a “negative response to Nuts.” Other than this note, there were no test
+results documented in the record. The Respondent also performed another SP, again with normal
+
+results. The Respondent also performed patch testing (PT) with 300 patch tests. The
+
+? The Respondent miscalculated the charges. The charges add to $2990.
+8
+Respondent billed $250 under CPT code 99245, $2640 for SPT for 264 allergens tested, $100 for
+the SP, and $3000 for PT for a total of $5990.
+
+On May 3, 2014, Patient 1 was seen by the Respondent for a reading of the PT performed
+on May 1, 2014. The Respondent recorded 70 patch tests with the following results: “Patch Test
+reading — No reaction.” He scheduled an OFC for Brazil nuts, and ordered that the patient
+resume her medications except for any antihistamine. The Respondent billed $250 under CPT
+code 99245.
+
+On May 10, 2014, Patient 1 returned, and the Respondent performed another SPT. There
+was a positive histamine response. The Respondent’s progress notes state, “Prick Skin Test to
+Brazil Nut negative.” Other than this note, the test results of the SPT are not documented. The
+Respondent performed the OFC and reported that the patient was fit to take Brazil nuts since
+there was no reaction. The Respondent also performed two SPs, each with normal results. The
+Respondent billed for $250 under CPT code 99245, $2640 for the SPT for 264 allergens tested,
+and $100 for the SP for a total of $2990 for the May 10, 2014, visit.
+
+PATIENT 2
+
+The Respondent’s medical records contain a health insurance billing form for services he
+purportedly provided Patient 2 on March 31, 2014. (State’s Exhibit 18 at 207.) The claim form
+lists SPT billed at $2640 for 264 allergens tested and $250 under CPT code 99245 for a total
+charge of $2890. The Respondent, however, did not provide services to Patient 2 on that date.
+
+On April 2, 2014, Patient 2 saw the Respondent for the first time. Patient 2 is a mechanic
+who suffered from hives for two years prior to seeing the Respondent. He had seen other
+physicians, but his hives had not been successfully treated. On April 2, the Respondent
+
+performed a SPT for 264 antigens. The histamine test was negative; the Respondent noted,
+“Poor histamine response.” The Respondent also conducted a SP; the results were normal. In
+addition, the Respondent ordered RAST. Another appointment was scheduled, and the
+Respondent’s notes state that the patient should “[s]top all antihistamines by mouth.” The
+Respondent billed $250 under CPT code 99245, $2640 for a SPT for 264 allergens tested, and
+$100 for the SP for a total of $2990 for the visit.
+
+On April 16, the Respondent performed another SPT for 264 allergens, which showed
+“generalized prick response to all allergens including saline control.” RAST results were
+obtained, which showed a response to cockroaches. The Respondent also performed a SP. The
+results were normal. In a bill that incorrectly provided the service date as April 17, 2014, the
+Respondent wrote $250 under CPT code 99245, $2640 for the SPT, and $100 for the SP for a
+total of $2990.
+
+On April 30, 2014, RAST was repeated, showing a moderate response to dust mite. The
+Respondent billed for $250 under CPT code 99245.
+
+On May 7, 2014, the Respondent performed another SPT. The Respondent wrote in his
+progress notes the SPT had an “equivocal result” (although he wrote unequivocal result on the
+SPT result form). He also performed another SP and noted normal results and “poor effort.”
+The Respondent billed $250 under CPT code 99245, $2640 for SPT for 264 allergens tested, and
+$100 for SP for a total of $2990.
+
+On May 13, 2014, the Respondent performed another SPT, which, according to his
+progress notes had an “equivocal response.” The Respondent also performed another SP, which
+had a disposition of “‘poor effort.” The Respondent billed $250 under CPT code 99245, $2640
+
+for a SPT for 264 allergens tested, and $100 for SP for a total of $2990.
+

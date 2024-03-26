@@ -1,0 +1,355 @@
+IN THE MATTER OF * BEFORE THE
+
+OLUWATOBI A. YEROKUN, M.D. * MARYLAND STATE
+
+Respondent * BOARD OF PHYSICIANS
+License Number: D90044 * Case Number: 2223-0030A
+* * * * * * * * * * * * *
+
+FINAL DECISION AND ORDER
+
+ 
+
+PROCEDURAL HISTORY
+
+Oluwatobi A. Yerokun, M.D. was licensed to practice medicine in the State of Maryland
+on July 20, 2020, under License Number D90044. On September 21, 2022, in the United States
+District Court for the Western District of Missouri, Dr. Yerokun pled guilty to one count of
+Conspiracy to Make False Statements Related to Health Care Matters, in violation of 18 U.S.C. §
+371 (U.S.A v. Oluwatobi Alabi Yerokun, Case # 22-cr-221-HFS).!
+
+On February 2, 2023, the Office of the Attorney General filed with the Maryland Board
+of Physicians (the “Board”) a petition to suspend Dr. Yerokun’s license to practice medicine
+(“the Petition”) and a proposed Show Cause Order pursuant to section 14-404(b)(1) of the
+Maryland Medical Practice Act. The statute provides:
+
+d) On the filing of certified docket entries with the Board by the Office of the
+Attorney General, a disciplinary panel shall order the suspension of a
+license if the licensee is convicted of or pleads guilty or nolo contendere
+with respect to a crime involving moral turpitude, whether or not any
+
+appeal or other proceeding is pending to have the conviction or plea set
+aside.
+
+' 18 U.S.C. § 371 states in pertinent part:
+
+If two or more persons conspire either to commit any offense against the United States, or to
+defraud the United States, or any agency thereof in any manner or for any purpose, and one or
+more of such persons do any act to affect the object of the conspiracy, each shall be fined under
+this title or imprisoned not more than five years, or both,
+
+ 
+Md. Code Ann., Health Occupations Article (“Health Occ.”) § 14-404(b) (2021 Repl. Vol.).
+Attached to the Petition were copies of the certified docket entries, criminal information, and
+plea agreement. As of the date of the Petition, Dr. Yerokun had not been sentenced.
+
+On March 6, 2023, Dr. Yerokun, through his counsel, submitted a response, arguing that
+his crime did not involve moral turpitude, and requested a hearing. Board Disciplinary Panel A
+declines to grant Dr. Yerokun’s request for a hearing pursuant to COMAR 10.32.02.07 E(3).?
+
+Having reviewed and considered the entire record in this case, Panel A issues this Final
+Decision and Order. COMAR 10.32.02.07H(1).
+
+FINDINGS OF FACT
+
+Panel A finds the following:
+
+lL. Oluwatobi A. Yerokun, M.D. was licensed to practice medicine in the State of
+Maryland on July 20, 2020, under License Number D90044. His license is scheduled to expire
+on September 30, 2023.
+
+2. On September 21, 2022, the United States Attorney’s Office for the Western
+District of Missouri filed an Information as to Dr. Yerokun’s violation of 18 U.S.C. § 371 —
+Conspiracy to Make False Statements Regarding Health Care Matters (U.S.A v. Oluwatobi Alabi
+Yerokun, Case # 22-cr-221-HFS).
+
+3. Also on September 21, 2022, Dr. Yerokun pleaded guilty to one count of
+Conspiracy to Make False Statements Related to Health Care Matters, in violation of 18 U.S.C.
+
+§371.
+
+> In 2013, pursuant to Health Occ. § 14-401, the Board was divided into two disciplinary panels to resolve
+disciplinary actions against physicians. See House Bill 1096, ch. 401, 2013 Md. Laws 3542. This case was
+considered and decided by Disciplinary Panel A of the Board.
+
+ 
+4. The factual basis for Dr. Yerokun’s guilty plea, agreed to by the parties, included
+the following statements:
+
+From on or about February 2019 through April 2021, Oluwatobi Alabi Yerokun was a
+physician who practiced medicine, among other places, in the State of Missouri.
+
+ 
+
+Medicare and Medicaid were “health care benefit programs” as defined by 18 U.S.C.§
+24(b) and “Federal health care programs” as set forth in 42 U.S.C. § 1320a-7b(b).
+
+On multiple occasions between 2015 and 2018, Yerokun signed enrollment applications
+with Medicare which stated:
+
+I agree to abide by Medicare laws, regulations, and program
+instructions that apply to me...I understand that payment of a claim by
+Medicare is conditioned upon the claim and the underlying transaction
+complying with such laws, regulations, and program instructions
+(including, but not limited to, the Federal Anti-Kickback Statute...)
+
+From on or about February 2019 to April 2021, certain individuals and entities, such as
+marketing, physician recruiting, and telemedicine companies, some of whom were
+unknown to Yerokun, developed a scheme that targeted Medicare and Medicaid patients
+to obtain reimbursement from those programs and information about purported
+“patients,” such as their insurance information. Company A, a locum tenens physician
+staffing company, solicited Yerokun and contracted with him to work as a telemedicine
+provider...Company A gave Yerokun access to electronic portals so that he could receive
+information about the patients assigned to him. The information included, among other
+things, the patient’s demographic information, the identity of the insurance provider such
+as Medicare and Medicaid, and the type of durable medical equipment (DME) or genetic
+testing that Yerokun was supposed to order for them.?
+
+Much of the patient information that Yerokun received from Company A was pre-
+populated, that is, it had been filled in before Yerokun received it... According to
+Yerokun, he understood his assignment to be to only review the charts. Through the
+electronic portal that Company A made available to defendant Yerokun, he electronically
+signed the patient forms and orders he received from Company A. Yerokun signed the
+patient forms and certified that the DME and genetic tests were medically necessary. For
+the genetic tests, he also signed a separate letter of medical necessity.
+
+Yerokun had no prior doctor-patient relationship with the Medicare or Medicaid
+beneficiaries and did not see or communicate with them. Before Yerokun signed the
+orders, he made little effort to find out how or from whom the patient information was
+
+’ The Plea Agreement stated that because the type of genetic testing Dr. Yerokun ordered did not
+diagnose cancer, Medicare only covered such tests in limited circumstances. Medicare did not cover the
+genetic testing for beneficiaries who did not have cancer or lacked symptoms of cancer.
+
+3
+obtained, who collected the information, the qualifications of any person gathering or
+providing the information, or whether the information was accurate and complete.
+Yerokun provided no follow-up care for these patients after he signed the orders for them
+to receive DME or genetic testing.
+
+By knowingly and willfully electronically signing the orders, Yerokun made false and
+fraudulent statements and documents by certifying medical necessity. The statements
+and documents were false because, among other things, Yerokun did not have adequate
+information to access medical necessity for the beneficiaries. In addition, he rarely, if
+ever, declined to sign any orders. Moreover, for most of the patients, less than a minute
+elapsed between when he accessed the patient’s information through the electronic portal
+and when he signed the order for DME or genetic testing. Accordingly, he knew his false
+and fraudulent statements were untrue when he made them.
+
+ 
+
+Yerokun’s false statements and representations concerned material facts because
+Medicare and Medicaid would not have paid the claims submitted by the DME
+companies and testing laboratories if they had known that Yerokun had no physician-
+patient relationship with the beneficiaries, did not see or evaluate them, and spent only
+seconds to minutes reviewing the patient information.
+
+... Yerokun’s orders for DME and genetic testing were not properly payable and
+
+reimbursable by Medicare and Medicaid because, among other reasons, Yerokun had no
+
+physician-patient relationship with the beneficiaries and did not see or evaluate them.
+
+Therefore, Yerokun was not able to accurately certify that the services were medically
+
+necessary.
+
+Company A paid Yerokun approximately $20 for each order for DME or genetic testing
+
+that he signed. Between March 2019 and April 2021, Company A paid Yerokun $44,860
+
+by electronically depositing funds into a bank account [Yerokun maintained]. During
+
+this time period, Yerokun ordered DME and genetic tests for 2,184 Medicare
+
+beneficiaries.
+
+5. On September 21, 2022, the U.S. District Court for the Western District of
+Missouri accepted Dr. Yerokun’s guilty plea.
+
+6. As of the date of the Petition, Dr. Yerokun had not been sentenced.
+
+DISCUSSION
+Pursuant to COMAR 10.32.02.07E(2), Dr. Yerokun may respond to the order to show
+
+cause, in writing, to address the following limited issues: “(a) Lack of conviction or plea; (b)
+
+Whether the crime is one involving moral turpitude; (c) Misidentity of the respondent with the
+defendant in the criminal matter; and (d) Other relevant issues, if any, other than mitigation.”
+Dr. Yerokun does not deny that he pled guilty to one count of Conspiracy to Make False
+Statements Related to Health Care Matters. Nor does he argue that he was misidentified as the
+defendant in the criminal case. Rather, Dr. Yerokun argues that (1) the crime he pled guilty to is
+not a crime involving moral turpitude; and (2) he requests a hearing prior to any action taken by
+the Board.
+
+Health Occ. §14-404(6)(1) mandates the automatic suspension of a physician’s medical
+license when a disciplinary panel concludes that a physician was convicted of or pleads guilty to
+a crime involving moral turpitude.* Under Health Occ. §14-404(b)(1), a disciplinary panel has
+the obligation and discretion to determine what types of crimes are crimes involving moral
+turpitude for licensing and disciplinary purposes. “[I]t is settled that whatever else [moral
+turpitude] may mean... a crime in which an intent to defraud is an essential element is a crime
+involving moral turpitude. It is also settled that the related group of offenses involving
+intentional dishonesty for purposes of personal gain are crimes involving moral turpitude[.]” Jd.
+at 459-60. “[IJn the context of a licensing board’s review of the conduct of its licensee, the
+concept of moral turpitude is rather broad.” Oltman v. Maryland State Bd. Of Physicians, 162
+Md. App. 457, 483 (2005).
+
+The Court of Appeals has also established that “[a] guilty plea is an admission of conduct
+that constitutes all the elements of a formal criminal charge” and that [b]y entering a plea of
+guilty, the accused is not simply stating that he did the discrete acts described in the indictment;
+he is admitting guilt of a substantive crime.” Metheny v. State, 359 Md. 576, 599 (2000)
+(internal citations and quotation marks omitted). A guilty plea “also serves asa stipulation that
+
+4 At the time the Petition was filed, Dr. Yerokun had not been sentenced, which is why the Panel proceeded under
+Health Occ. §14-404(b)(1) instead of Health Occ. §14-404(b)(2).
+
+5
+no proof by the prosecution need [be] advanced. . . . It supplies both evidence and verdict, [thus]
+ending [the] controversy.” Jd.
+
+Dr. Yerokun’s Crimes Involved Moral Turpitude.
+
+Dr. Yerokun argues that the crime he pled guilty to is not a crime involving moral
+turpitude because it did not involve the prescribing of controlled substances or impersonating
+another. Dr. Yerokun asserts that he was naive and he relied on the Company’s assurances that
+he did not need to contact the patients or conduct a more thorough examination. Dr. Yerokun
+contends that his crime does not rise to the level of a crime involving moral turpitude because the
+Company was the mastermind behind the scheme to defraud Medicare and Medicaid and he had
+a limited role in the operation.
+
+“Determining whether an individual has been convicted of a crime involving moral
+turpitude ‘necessarily begins with an examination of the criminal statute itself.” Burke v.
+Maryland Bd. of Physicians, 250 Md. App. 334, 348, cert. denied, Burke v. Md. Bd. of
+Physicians, 475 Md. 705 (2021) (quoting Attorney Grievance Comm’n of Md. v. Walman, 280
+Md. 453, 460 (1977)). The language of the statute that Dr. Yerokun pled guilty to, 18 U.S.C. §
+37], is:
+
+If two or more persons conspire either to commit any offense against the
+
+United States, or to defraud the United States, or any agency thereof in any
+
+manner or for any purpose, and one or more of such persons do any act to effect
+
+the object of the conspiracy, each shall be fined under this title or imprisoned not
+
+more than five years, or both.
+
+Read together with the elements of the crime enumerated in the plea agreement, an intent to
+defraud is an essential element of the crime that Dr. Yerokun pled guilty to. A “significant
+
+characteristic of conspiracy to commit a crime is that the defendant, to be found guilty of
+
+conspiracy, must have a specific intent to commit the offense which is the object of the
+
+ 
+conspiracy.” Alston v, State, 414 Md. 92, 114-15 (2010). Accordingly, through Dr. Yerokun’s
+conspiracy, he possessed the specific intent to knowingly defraud the U.S. Government, which
+constitutes a crime involving moral turpitude per se. Based on the analysis of the elements of the
+crime to which he pled guilty, Dr. Yerokun’s level of culpability is irrelevant.
+
+In addition to the elements of the crime, the facts in support of the guilty plea also
+establish that Dr. Yerokun’s crime involved moral turpitude. In considering the facts of the case,
+the relevant consideration is whether the crime “was accompanied by a fraudulent or dishonest
+intent.” Walman, 280 Md. at 462. In pleading guilty, Dr. Yerokun admitted that he knowingly
+and willfully made false and fraudulent statements and documents by certifying medical
+necessity for genetic medical testing or DME. Dr. Yerokun admitted that he never saw the
+patients and, for most of the patients, spent less than a minute between when he accessed the
+patient’s information through the electronic portal and when he signed the order for DME or
+genetic testing. Dr. Yerokun also admitted to accepting money in exchange for each order for
+DME or genetic testing that he signed even though he was not able to accurately certify that the
+services were medically necessary. In doing so, Dr. Yerokun submitted fraudulent health care
+claims to the government for purposes of his own personal gain. Walman, 280 Md. at 459-60.
+Therefore, the facts of this case also establish that Dr. Yerokun pled guilty to a crime involving
+moral turpitude.
+
+Request for a Hearing.
+
+Dr. Yerokun argues that “[a]t a minimum, he should be afforded a hearing before any
+action is taken because his guilty plea does not involve a fact-pattern and crime of moral
+turpitude.” As discussed above, the Panel finds that Dr. Yerokun did plead guilty to a crime
+
+involving moral turpitude based on the elements of the crime and the facts in support of the
+
+ 
+guilty plea. In enacting Health Occ. § 14-404(b)(1), the Maryland General Assembly has
+authorized the mandatory suspension of a license without the need for a hearing for crimes
+involving moral turpitude prior to sentencing or during the pendency of any appellate
+proceedings. The Court of Appeals in Felsenberg determined that “[t}he intent of the Legislature
+in directing summary treatment of a charge based on the conviction of a crime involving moral
+turpitude is clear.” 35] Md. at 304.
+
+In this case, the State appropriately initiated suspension procedures under Health Occ. §
+14-404(b)(1). Unlike cases charged under Health Occ. § 14-404(a), where a licensee has the
+right to an evidentiary hearing and the opportunity to appear for a settlement conference, there is
+no statutory or regulatory right to a hearing for cases charged under Health Occ. § 14-404(b).
+Rather, the decision to grant a hearing is discretionary based on the existence of genuine issues
+of material fact or law as determined by the disciplinary panel. COMAR 10.32.02.07E(3). The
+Felsenberg Court explained, “when the charge rests solely upon the conviction, there is no need
+to inquire into the underlying conduct” and that the question of “[w]hether the crime is one
+involving moral turpitude is an issue which ordinarily may be resolved without the need for
+evidence or fact-finding.” 351 Md. at 303. Dr. Yerokun’s “guilty plea served as a means of
+providing for an expedited and summary disposition by the Board.” Burke, 250 Md. App. at
+359. .
+
+The determination of whether the crime, in this case, involved moral turpitude is a
+question of law, which does not require an evidentiary hearing or consideration of any facts
+beyond the elements of the conviction itself. Accordingly, Dr. Yerokun’s request for a hearing is
+
+denied.
+
+ 
+
+ 
+CONCLUSION OF LAW
+
+Based on the above-discussion, Panel A concludes that Dr. Yerokun’s guilty plea and
+conviction for Conspiracy to Make False Statements Related to Health Care Matters, 18 U.S.C. §
+371, is a crime involving moral turpitude. As a result, Health Occ. § 14-404(b)(1) requires Panel
+A to order the suspension of Dr. Yerokun’s license.
+
+ORDER
+
+It is, by Board Disciplinary Panel A, hereby:
+
+ORDERED that the license of Oluwatobi A. Yerokun, M.D., license number D90044, to
+practice medicine in Maryland is SUSPENDED, as mandated by Health Occ. § 14-404(b)(1);
+and it is further
+
+ORDERED that Dr. Yerokun’s request for a hearing is denied; and it is further
+
+ORDERED that this is a PUBLIC DOCUMENT. See Md. Code Ann., Health Occ. § 1-
+607, 14-411.1(b)(2) and Gen. Prov. § 4-333(b)(6).
+
+Signature On Fil
+nelialoon ignature On File
+Date ! Christine A. Farrelfy, Ex foie]
+Maryland State Board of Physicians
+NOTICE OF RIGHT TO PETITION FOR JUDICIAL REVIEW
+
+Pursuant to Md. Code Ann., Health Occ. § 14-408, Dr. Yerokun has the right to seek
+judicial review of this Final Decision and Order. Any petition for judicial review. shall be filed
+within thirty (30) days from the date of mailing of this Final Decision and Order. The cover
+letter accompanying this final decision and order indicates the date the decision is mailed. Any
+
+petition for judicial review shall be made as provided for in the Administrative Procedure Act,
+
+ 
+Mp. CODE ANN., STATE Gov’T § 10-222 and Title 7, Chapter 200 of the Maryland Rules of
+Procedure.
+if Dr. Yerokun files a petition for judicial review, the Board is a party and should be
+served with the court’s process at the following address:
+Christine A. Farrelly, Executive Director
+Maryland State Board of Physicians
+4201 Patterson Avenue
+Baltimore, Maryland 21215
+Notice of any petition for judicial review should also be sent to the Board’s counsel at the
+following address:
+Stacey Darin, Assistant Attorney General
+Office of the Attorney General
+Maryland Department of Health
+
+300 West Preston Street, Suite 302
+Baltimore, Maryland 21201
+
+ 
+
