@@ -15,17 +15,15 @@ for image_file in "$images_directory"/*.png; do
     # Define the base path for the output (Tesseract adds .txt extension automatically)
     output_base="$text_directory/$filename"
     # Define the full path of the expected text file (for checking existence)
-    output_text_file="${output_base}.txt"
-    
+    output_text_file="${output_base}_0.txt"
     # Check if the text file already exists
-    if [ ! -f "$output_text_file" ]; then
+    if [ ! -f "text/${output_text_file}.txt" ]; then
         # The text file doesn't exist, so run Tesseract OCR on the image
+        echo "Processing: $filename"
         tesseract "$image_file" "$output_base"
-        echo "Processed: $filename"
     else
         # The text file exists, skip OCR for this image
         echo "Already processed: $filename, skipping."
     fi
 done
 
-echo "OCR processing complete."
