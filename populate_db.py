@@ -68,4 +68,4 @@ with open(modified_csv_file_path, 'r', encoding='utf-8') as csvfile:
         # Upsert the row into the SQLite database
         db["alerts"].upsert(row, pk="filename")
 
-db["alerts"].enable_fts(["text"])
+db["alerts"].enable_fts(["text"], tokenize="porter", replace=True)
