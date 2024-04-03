@@ -34,6 +34,8 @@ for year in years:
             list_of_cells = []
             for cell in row.find_all('td'):
                 if cell.find('a'):
+                    id = cell.find('a')['href'].split('/')[3].replace('.pdf','')
+                    list_of_cells.append(id)
                     list_of_cells.append("https://www.mbp.state.md.us" + cell.find('a')['href'])
                 text = cell.text.strip()
                 list_of_cells.append(text)
@@ -44,9 +46,10 @@ for year in years:
             list_of_cells = []
             for cell in row.find_all('td'):
                 if cell.find('a'):
+                    id = cell.find('a')['href'].split('/')[3].replace('.pdf','')
                     link = "https://www.mbp.state.md.us" + cell.find('a')['href']
                     type, name = cell.text.rsplit(' - ', 1)
-                    list_of_cells = [link, name, type]
+                    list_of_cells = [id, link, name, type]
                 else:
                     list_of_cells.append(cell.text)
                     list_of_cells.append(year)
@@ -55,5 +58,5 @@ for year in years:
 outfile = open("alerts.csv", "w")
 writer = csv.writer(outfile)
 # i am writing a header row
-writer.writerow(["url", "name", "type", "date","year"])
+writer.writerow(["id", "url", "name", "type", "date","year"])
 writer.writerows(list_of_rows)
